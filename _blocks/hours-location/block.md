@@ -1,11 +1,11 @@
 ---
+updated_by: ryan.ahearn@gsa.gov
+updated_at: 2022-04-19T18:12:03.239Z
 name: Hours
-updated_by: ryan.ahearn+local@gsa.gov
-updated_at: 2022-04-18T16:11:05.387Z
 ---
 ### Location
 
-OITE is housed on the second floor of Building 2.
+OITE is housed on the third floor of Building 2.
 
 ### Hours
 
